@@ -6,9 +6,10 @@ pos = int(input("Enter the Position to delete\n"))
 #Ensure the value is not out of range
 if pos <= length:
     arr.pop(pos)
+    print("Array After Delete : \n", arr)
 else:
     print("Sorry Position is out or Bounds!")
    
     
-print("Array After Change : \n", arr)
+
 
