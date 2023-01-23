@@ -1,2 +1,3 @@
 # data-structures-and-algorithms-python
-A combination of how to implement data structures from the simple to the more complex data structures
+## This repo is has been established with the intention of helping other new and upcoming software developers master data structures with Python 
+
