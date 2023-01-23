@@ -44,6 +44,7 @@ class LinkedList:
             print(current.data)
             current = current.next
         print("**************************************************")
+        
 
 """
 Test the connectivity between our Linked List and the Node
