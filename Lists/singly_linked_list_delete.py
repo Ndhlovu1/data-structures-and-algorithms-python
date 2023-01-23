@@ -39,7 +39,7 @@ class LinkedList:
             #Delete the temporary header
             print("Previous Head Node Was :",temp_head_storage.data)
             temp_head_storage = None
-            print("LIST NOW IS :",self.head.data)
+            print("LIST NEXT NODE IS :",self.head.data)
         else:
             print("List is Null")
 
